@@ -1,4 +1,5 @@
 # Contemporary Issues In Data
+In these two news articles, a controversial topic of the application of genetic genealogy databases is discussed. 
 
 ## Passage 1: [A Nonprofit Wants Your DNA Data to Solve Crimes](https://www.wired.com/story/genetic-genealogy-nonprofit-dna-database/) 
 
@@ -12,3 +13,5 @@ The cases in the passage shows the great power of DNA databases in tracking down
 In contrast to the previous passage, the author argues that the exploit of DNA databases has raised ethical concerns, primarily due to the invasion of privacy and the potential for misuse.The passage highlights a loophole in the GEDmatch database, which allows genetic genealogists to access DNA profiles of individuals who have explicitly opted out of sharing their genetic information with law enforcement. This loophole was exploited by some genealogists working with police. 
 
 The reason why the writer is strongly against the criminal information collection in databases is that people uploading their DNA can't consent for their relatives and family, but the DNA they uploaded representing themselves also include the other people's privacy content. The writer calls for further legal restrain on the improper application of DNA databases.
+
+As for me, I agree with the writer that people should be fully aware of the fact that their DNA information is no longer kept in safe because there are many other ways to get access to it through databases, as mentioned in the passage, from your relatives or even from someone you have never heard before. In an era of information explosion, human rights can be violated easier than ever and regulations should always keep up with the pace of technology.
